@@ -1,0 +1,14 @@
+/*
+Theme Name:   Astra Child
+Theme URI:    http://example.com
+Description:  Astra Child Theme
+Author:       Bertrand Leugoue
+Author URI:   https://you-ago.com
+Template:     astra
+Version:      0.1.0
+*/
+
+h2 {
+	color: #e415ff;
+	font-size: 120px;
+}
